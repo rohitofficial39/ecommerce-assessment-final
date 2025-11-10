@@ -1,0 +1,11 @@
+Prompt 1 — architecture & README:
+"You're an experienced software engineer. Create a technical architecture document for a small e-commerce web app: React (or Next) frontend, React Router, Node.js + Express backend, MongoDB database. Include data models, API endpoints, flow diagrams (text), and deployment notes. Keep it concise for an assessment submission."
+
+Prompt 2 — backend code:
+"Generate a minimal Node.js + Express backend for an e-commerce demo with a products API and a cart API. Use MongoDB with Mongoose. Cart must support adding items, updating quantities, removing items and listing items. Use a cookie-based cartId. Provide package.json, server.js, Mongoose models, routes, and a seed data script."
+
+Prompt 3 — frontend code:
+"Generate a React (Vite) frontend for the e-commerce demo. Include React Router routes for product list, product details, and cart. Use an Axios instance for API calls. Implement a CartContext that fetches the cart and supports addToCart, updateItem, removeItem. Provide components Navbar, ProductCard and pages ProductList, ProductDetails, CartPage. Keep styling minimal and responsive."
+
+Prompt 4 — git & deployment instructions:
+"Write step-by-step commands to initialize a git repo, commit, create GitHub repo, push, and deploy backend to Heroku and frontend to Vercel. Include environment variable notes."
