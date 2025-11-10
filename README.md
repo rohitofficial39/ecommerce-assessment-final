@@ -29,10 +29,4 @@ Prereqs: Node.js (16+), npm, Git.
 
 4. Open http://localhost:5173 in your browser.
 
-## Git & push (if you want to push immediately)
-git init
-git add .
-git commit -m "Initial commit: ecommerce assessment"
-# create a repo on GitHub and push as explained in the submission instructions.
 
-See backend/ and frontend/ folders for source code.
